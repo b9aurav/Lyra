@@ -5,8 +5,6 @@ import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
-    <body data-theme="skeleton">
-      <App />
-    </body>
+    <App />
   </React.StrictMode>
 );
